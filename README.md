@@ -26,7 +26,7 @@
 - ⚙️ Following **Clean Architecture** and **CQRS** patterns for maintainability and scalability
 - 🗃️ Confident in both SQL Server and MongoDB for flexible data persistence
 - 🧑‍💻 Frontend? No problem – I'm currently learning **React** to become fully full-stack
-- 🧼 I write testable, SOLID code, and believe in readable, minimalistic architecture
+- 🧼 I write testable, SOLID code, and believe in readable architecture
 
 ---
 
